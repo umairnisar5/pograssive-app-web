@@ -1,3 +1,6 @@
+importScripts('https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js');
+importScripts('https://www.gstatic.com/firebasejs/8.1.1/firebase-messaging.js');
+
 const firebaseConfig = {
     apiKey: "AIzaSyCHoaR7lYPLwyu0SL2N3Mp4mynuVgIj2Ls",
     authDomain: "notifactionpp.firebaseapp.com",
